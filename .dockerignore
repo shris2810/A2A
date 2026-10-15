@@ -1,0 +1,17 @@
+.git
+.github
+.vscode
+.idea
+.gemini
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
+*.log
+scratch/
+brain/
+sample_document.pdf
